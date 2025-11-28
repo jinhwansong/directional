@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+:root {
+  --sbl-pink: #f23d67;
+  --light-gray: #f6f7f9;
+  --pale-gray: #edeff2;
+  --soft-gray: #e2e3e5;
+  --deep-gray: #717681;
+  --medium-gray: #a7aab1;
+  --black-color: #282828;
+  --font-color: #2f3137;
+  --dark-gray: #3c4352;
+  --success-color: #2ECC71;
+  --danger-color: #f23d67;
+  --border-color: #e5e5e5;
+}
